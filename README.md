@@ -9,7 +9,7 @@ Focused on full-stack development with .NET technologies and cross-platform solu
 **Primary Stack:**
 - **Backend:** .NET Core/Framework, Entity Framework Core
 - **Frontend:** Blazor Server/WebAssembly, WinForms (legacy maintenance)
-- **Desktop/:** .NET MAUI
+- **Desktop:** .NET MAUI
 - **Database:** SQL Server
 - **Tools:** Visual Studio, JetBrains IDEs
 

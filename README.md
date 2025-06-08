@@ -27,7 +27,7 @@ Focused on full-stack development with .NET technologies and cross-platform solu
 
 ## 🎯 Experience
 
-**1 year 5 months** of professional development experience with:
+**1+ year** of professional development experience with:
 - .NET ecosystem development
 - Cross-platform application development
 - Database-driven application development
